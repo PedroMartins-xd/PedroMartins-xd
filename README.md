@@ -1,12 +1,18 @@
 <h1 align="center">Hi there! 👋 I'm Pedro Rodrigo</h1>
-<p align="center">Aspiring Fullstack Developer | Java Enthusiast | Lifelong Learner 🚀</p>
+<p align="center">Fullstack Developer</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Pedro Rodrigo Martins Da Silva**, a 19-year-old developer currently studying **Systems Analysis and Development**.  
+I'm Pedro Rodrigo Martins Da Silva, a 19-year-old developer currently studying Systems Analysis and Development in Brazil.
 I'm passionate about solving problems through code and building smart, scalable, and user-friendly applications.
+
+My journey in tech began with a deep curiosity for how things work behind the screen. Over time, I transformed that curiosity into consistent learning and hands-on practice. I'm especially interested in combining backend logic with frontend interfaces to deliver complete solutions.
+
+I'm currently focused on strengthening my skills in Java, working with Object-Oriented Programming, algorithms, and data structures. I also enjoy building gamified logic projects like Hacker Verdão and Code Guardians, which help me sharpen my skills while having fun.
+
+My long-term goal is to become a well-rounded fullstack developer, capable of contributing to both the technical foundation and the user experience of web applications. I'm always seeking new challenges, real-world projects, and opportunities to collaborate and grow in the tech community.
 
 ---
 
