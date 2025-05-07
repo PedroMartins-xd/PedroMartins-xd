@@ -72,8 +72,7 @@ My long-term goal is to become a well-rounded fullstack developer, capable of co
 
 ## 🌐 Socials
 
-LinkedIn(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/pedro-rodrigo-6a4b91323/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-rodrigo-6a4b91323/))
 
 ---
 
